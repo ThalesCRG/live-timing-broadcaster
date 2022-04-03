@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:ThalesCRG/live-timing-broadcaster-frontend.git
+[submodule "telemetry"]
+	path = telemetry
+	url = git@github.com:ThalesCRG/live-timing-broadcaster-telemetry.git
+[submodule "authserver"]
+	path = authserver
+	url = git@github.com:ThalesCRG/live-timing-broadcaster-authserver.git
